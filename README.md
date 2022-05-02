@@ -1,5 +1,10 @@
 # Slalom_DataChallenge
+**Requirements** <br/>
+1. A script wirtten with any programming language that calls the API and uploads it to your database.
+2. A file with the two queries that answer our questions about the data
+3. An explanation of how to run your solution.
 
+### HOW I SOLVED
 1. Pulled and saved the SpaceX Launch API from the web using python.
 2. Normalized the json files and saved as a csv using python.
 3. Cleaned the datasets using Excel. 
@@ -8,3 +13,9 @@
 6. Created tables based on the ERD 
 7. Wrote stored procedures to properly insert the loaded data into the tables in the database
 8. Wrote the querying statements answering questions that were asked to solve. 
+
+### TO RUN
+- Run a 'DataChallenge.sql' file on MySQL to have creat a database using data pulled from API
+- Run a 'query.sql' file on MySQL for the solution answerting the questions 
+
+
