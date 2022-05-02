@@ -15,7 +15,7 @@
 8. Wrote the querying statements answering questions that were asked to solve. 
 
 ### TO RUN
-- Run a 'DataChallenge.sql' file on MySQL to have creat a database using data pulled from API
-- Run a 'query.sql' file on MySQL for the solution answerting the questions 
+- Run a 'DataChallenge.sql' script on MySQL to have create a database based on the data pulled from API
+- Run a 'query.sql' script on MySQL for the solutions to the questions that were asked to answer.
 
 
